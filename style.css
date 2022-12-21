@@ -1,0 +1,67 @@
+/* ----- 1 ----- */
+/* first part of div id=st_mr */
+/* ------------------------- */
+/* /div design/ */
+#st_mr{
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    border: 1px inset #fff;
+    border-radius: 0px 40px 40px 40px;
+    box-sizing: border-box;
+    display: inline-block;
+    background-image: url(./R.jpg);
+    background-position: center;
+    background-blend-mode:multiply ;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0, 408);
+}
+/* /div design end/ */
+
+/* /div heding/ */
+#st_mr h1 {
+    text-align: center;
+    color: aqua;
+}
+/* /div heading end/ */
+
+/* /div paragraph/ */
+#st_mr p{
+    text-align: justify;
+    color: antiquewhite
+}
+/* /div paragraph end/ */
+/* ------------------------------- */
+/* first part of div id=st_mr end */
+
+/* ----- 2 ----- */
+/* second part of div id=alas_ka */
+/* --------------------------- */
+/* /div design/ */
+#alas_ka{
+        background-image: url(./alaska.jpg);
+        background-size: cover;
+        background-color:rgba(0, 0, 0, 0, 412);
+        background-blend-mode: multiply;
+        background-position: bottom ;
+        width: 500px;
+        padding: 30px;
+        margin: auto;
+        border:1px initial cornsilk;
+        border-radius: 50px 50px 0px 50px;
+        box-sizing: border-box;
+        display :inline-block;
+             
+}
+#alas_ka h1{
+    text-align: center;
+    color: burlywood;
+}
+#alas_ka p{
+    text-align: justify;
+    color: antiquewhite;
+}   
+#alas_ka img{
+    padding-left: 50px;
+
+}
